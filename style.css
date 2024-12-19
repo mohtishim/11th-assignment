@@ -1,26 +1,19 @@
-*{
-margin: 0;
-padding: 0;
-
+h1 + p {
+    background-color: brown;
 }
 
-
-
-/* .a,.b,.c{
-    background-color: blueviolet; */
+body > h1 {
+    background-color: yellow;
 }
 
-/* .a{
-    background-color: blueviolet;
+body .abc {
+    background-color: aqua;
 }
 
-.b{
-    background-color: chartreuse;
+body .def {
+    background-color: chocolate;
 }
 
-.c{
-    background-color: darksalmon;
-} */
- /* div + p {
-color: crimson;
- } */
+body ~ .ghi {
+    background-color: darkblue;
+}
