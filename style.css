@@ -1,8 +1,16 @@
-h1{
-    background-color: blueviolet;
+*{
+margin: 0;
+padding: 0;
+
 }
 
-.a{
+
+
+/* .a,.b,.c{
+    background-color: blueviolet; */
+}
+
+/* .a{
     background-color: blueviolet;
 }
 
@@ -12,4 +20,7 @@ h1{
 
 .c{
     background-color: darksalmon;
-}
+} */
+ /* div + p {
+color: crimson;
+ } */
